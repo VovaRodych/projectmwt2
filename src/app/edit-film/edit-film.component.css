@@ -1,0 +1,10 @@
+.film_card {
+  width: 400px;
+  margin: 10px auto;
+}
+.film_card mat-form-field {
+  display: block;
+}
+.film_card mat-card-actions button, mat-card-header {
+  margin: 0 auto;
+}
